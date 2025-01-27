@@ -1,0 +1,1 @@
+This error typically occurs when using Expo's `Camera` API and attempting to access the camera's features before the camera has fully initialized.  The `Camera` component might not be ready to receive props such as `onBarCodeScanned` immediately upon mounting.
